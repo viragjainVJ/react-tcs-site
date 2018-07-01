@@ -25,7 +25,7 @@ my-app/
 ```
 
 # Usage
- 1. `git clone https://github.com/vreddy448/payslip-generator-app.git`
+ 1. `git clone https://github.com/viragjainVJ/react-tcs-site.git`
  2. `npm install`
  3. `npm start`
 
