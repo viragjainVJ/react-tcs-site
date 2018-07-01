@@ -1,0 +1,23 @@
+.footer-design {
+    display: inline-block;
+    height: 50px;
+    background: black;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.footer-design a{
+    color: white;
+    margin-left: 10px;
+}
+
+@media only screen and (max-width: 370px) {
+    .footer-design {
+        height: 70px;
+    }
+}

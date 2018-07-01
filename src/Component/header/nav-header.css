@@ -1,0 +1,109 @@
+.logo-design {
+    width: 150px;
+    height: 30px;
+    padding: 2px;
+}
+
+.App-header {
+    background-color: #222;
+    width: 100%;
+    height: 32px;
+    padding: 20px;
+    position: fixed;
+
+}
+
+.header-section {
+    display: flex;
+    position: relative;
+}
+
+.App-header a {
+    color: white;
+    margin: 5px;
+    float: left;
+}
+
+.nav-design {
+    position: absolute;
+    right: 40px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav-design ul li{
+    font-size: 1.2em;
+    display: inline-block;
+    float: left;
+    font-family: 'Alegreya', sans-serif;
+}
+
+.nav-design ul li a:hover{
+    color: #c3d7df;
+}
+
+.menu-header {
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    width: 30px;
+    height: 40px;
+    display: none;
+}
+
+.line {
+    position: absolute;
+    width: 80%;
+    left: 2px;
+    background: white;
+}
+
+.line1 {
+    height: 5px;
+    top: 2px;
+}
+
+.line2 {
+    height: 5px;
+    top: 10px;
+}
+
+.line3 {
+    height: 5px;
+    top: 18px;
+}
+
+@media only screen and (max-width: 930px) {
+    .nav-design {
+        width: 70%;
+    }
+
+    #menu-icon{
+        display: inline-block;
+        float: right;
+    }
+    .nav-design ul, nav:active ul{
+        display: none;
+        z-index: 1000;
+        position: absolute;
+        background: white;
+        right: 2px;
+        top: 35px;
+        border: 1px solid #fff;
+        border-radius: 5px 0 5px 5px;
+        width: 50%;
+    }
+    .nav-design:hover ul{
+        display: block;
+    }
+    .nav-design li{
+        width: 100%;
+        padding: 10px 0 0px 0;
+    }
+    .nav-design li a {
+        color: #222222;
+    }
+}
+
