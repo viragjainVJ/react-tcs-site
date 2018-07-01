@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28180bec-0878-4d95-947c-24f1db368626" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/TCS_Mobile.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/TCS_Page1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/TCS_Page2.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/TCS_Mobile.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/TCS_Mobile.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/TCS_Page1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/TCS_Page1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/TCS_Page2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/TCS_Page2.PNG" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,9 +57,14 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="656">
-              <caret line="57" column="105" selection-start-line="57" selection-start-column="105" selection-end-line="57" selection-end-column="105" />
+              <caret line="57" column="90" selection-start-line="57" selection-start-column="90" selection-end-line="57" selection-end-column="90" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TCS_Mobile.PNG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/images/TCS_Mobile.PNG">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="footer-design.css" pinned="false" current-in-tab="false">
@@ -173,34 +177,18 @@
             <path>
               <item name="react-tcs-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-tcs-site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-tcs-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-tcs-site" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="react-tcs-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-tcs-site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-tcs-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-tcs-site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Component" type="462c0819:PsiDirectoryNode" />
-              <item name="footer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-tcs-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-tcs-site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Component" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-tcs-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-tcs-site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Component" type="462c0819:PsiDirectoryNode" />
-              <item name="pageContent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="react-tcs-site" type="b2602c69:ProjectViewProjectNode" />
@@ -227,6 +215,7 @@
       <recent name="C:\React\react-tcs-site\src\Component\Header" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\React\react-tcs-site\public\images" />
       <recent name="C:\React\react-tcs-site\src\images" />
       <recent name="C:\React\react-tcs-site\src" />
     </key>
@@ -253,12 +242,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530373537742</updated>
-      <workItem from="1530373544441" duration="20403000" />
+      <workItem from="1530373544441" duration="21039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20403000" />
+    <option name="totallyTimeSpent" value="21039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -393,10 +382,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/TCS_Mobile.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="656">
-          <caret line="57" column="105" selection-start-line="57" selection-start-column="105" selection-end-line="57" selection-end-column="105" />
+          <caret line="57" column="90" selection-start-line="57" selection-start-column="90" selection-end-line="57" selection-end-column="90" />
         </state>
       </provider>
     </entry>

@@ -49,10 +49,10 @@ You can refer [to the React documentation](https://reactjs.org/docs/react-dom.ht
 
  ## 1. Desktop
 
-  ![desktop site first Page](https://github.com/viragjainVJ/react-tcs-site/tree/master/src/images/TCS_Page1.PNG)
+  ![desktop site first Page](https://github.com/viragjainVJ/react-tcs-site/tree/master/public/images/TCS_Page1.PNG)
 
-  ![desktop site scroll down](https://github.com/viragjainVJ/react-tcs-site/tree/master/src/images/TCS_Page2.PNG)
+  ![desktop site scroll down](https://github.com/viragjainVJ/react-tcs-site/tree/master/public/images/TCS_Page2.PNG)
 
  ## 2. Mobile (Responsive)
 
-   ![mobile browser view](https://github.com/viragjainVJ/react-tcs-site/tree/master/src/images/TCS_Mobile.PNG)
+   ![mobile browser view](https://github.com/viragjainVJ/react-tcs-site/tree/master/public/images/TCS_Mobile.PNG)
